@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/parthamallick313/results-summary-component-main]()
-- Live Site URL: [https://rscmfm.netlify.app]()
+- Live Site URL: [rscmfm.netlify.app]()
 
 ## My process
 
