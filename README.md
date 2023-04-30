@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/parthamallick313/results-summary-component-main](https://github.com/parthamallick313/results-summary-component-main)
-- Live Site URL: [rscmfm.netlify.app](rscmfm.netlify.app)
+- Solution URL: [https://github.com/parthamallick313/results-summary-component-main]
+- Live Site URL: [rscmfm.netlify.app]
 
 ## My process
 
@@ -39,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Partha Mallick]()
-- Frontend Mentor - [https://www.frontendmentor.io/profile/parthamallick313]()
+- Website - [Partha Mallick]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/parthamallick313]
