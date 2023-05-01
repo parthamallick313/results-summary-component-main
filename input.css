@@ -9,4 +9,11 @@
   .btn:active {
     @apply bg-gradient-to-b from-[#7857ff] to-[#2e2be9];
   }
+
+  .item::before {
+    @apply content-[''] absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 bg-transparent w-[101%] h-4/5 border-l-2 border-r-2;
+  }
+  .item::after {
+    @apply content-[''] absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 bg-transparent h-[106%] w-[95%] border-t-2 border-b-2;
+  }
 }
